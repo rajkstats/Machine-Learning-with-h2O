@@ -10,3 +10,6 @@ h2o.init()
 
 ### Anaconda- Python
  conda install -c h2oai h2o=3.20.0.2
+
+### Datasets:
+http://data.princeton.edu/wws509/datasets/#smoking
