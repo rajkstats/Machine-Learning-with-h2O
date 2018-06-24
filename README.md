@@ -12,4 +12,5 @@ h2o.init()
  conda install -c h2oai h2o=3.20.0.2
 
 ### Datasets:
+http://h2o-public-test-data.s3.amazonaws.com/smalldata/iris/iris_wheader.csv
 http://data.princeton.edu/wws509/datasets/#smoking
